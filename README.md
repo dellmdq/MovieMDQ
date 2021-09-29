@@ -1,2 +1,2 @@
-# SushiMDQ
-Trabajo Metodologia de Sistemas 2
+# MoviesMDQ
+Entrega trabajo final Tecnicatura Universitaria en Programación.
